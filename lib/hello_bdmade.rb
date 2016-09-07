@@ -1,5 +1,9 @@
 require "hello_bdmade/version"
 
 module HelloBdmade
-  # Your code goes here...
+  class Hello
+  	def self.do 
+  		puts 'Hello BDMADE !'
+  	end	
+  end	
 end
