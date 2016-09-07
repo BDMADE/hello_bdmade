@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # HelloBdmade
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/hello_bdmade`. To experiment with that code, run `bin/console` for an interactive prompt.
@@ -34,8 +33,3 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/hello_bdmade.
-
-=======
-# hello_bdmade
-A simple gem which will show hello bdmade text
->>>>>>> 0db5a63ece834c6e195ea7db79313b969d9155ff
