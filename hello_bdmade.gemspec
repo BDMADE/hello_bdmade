@@ -9,9 +9,10 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Tanbir Hasan"]
   spec.email         = ["tanbir2025@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{ a simple hello world type gem}
+  spec.description   = %q{This gem show a hello bdmade text}
+  spec.homepage      = "https://github.com/BDMADE/hello_bdmade"
+  spec.license       = "GNU 3"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
