@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{ a simple hello world type gem}
   spec.description   = %q{This gem show a hello bdmade text}
   spec.homepage      = "https://github.com/BDMADE/hello_bdmade"
-  spec.license       = "GNU 3"
+  spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
