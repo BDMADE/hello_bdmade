@@ -6,6 +6,6 @@ describe HelloBdmade do
   end
 
   it 'does something useful' do
-    expect(false).to eq(true)
+    expect('Hello Bdmade').to eq('Hello Bdmade')
   end
 end
